@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/transportio)
-  ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/transportio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/transportio?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/transportation)
+  ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/transportation?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/transportation?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar?style=social)](https://twitter.com/intent/follow?screen_name=Adnan__Bhaldar)
   [![YouTube Video Views](https://img.shields.io/youtube/views/55n9hx6QmVA?style=social)](https://youtu.be/55n9hx6QmVA)
 
@@ -13,7 +13,7 @@
 
   Transportio is a fully responsive transportation website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://adnan-bhaldar.github.io/transportio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://adnan-bhaldar.github.io/transportation/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,13 +36,13 @@ To run **Transportio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/adnan-bhaldar/transportio.git
+sudo git clone https://github.com/adnan-bhaldar/transportation.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/adnan-bhaldar/transportio.git
+git clone https://github.com/adnan-bhaldar/transportation.git
 ```
 
 ### Contact
